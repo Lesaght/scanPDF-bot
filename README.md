@@ -139,23 +139,6 @@ Bot-for-PDF-scan/
 - **[img2pdf](https://gitlab.mister-muffin.de/josch/img2pdf)** — JPEG → PDF без перекодировки
 - **[reportlab](https://www.reportlab.com/)** / **[python-docx](https://python-docx.readthedocs.io/)** — генерация документов
 
-### 🗺️ Roadmap
-
-- [ ] OCR (Tesseract) → searchable PDF
-- [ ] Multi-page: сборка нескольких фото в один документ
-- [ ] Сжатие готового PDF
-- [ ] Шифрование PDF паролем
-- [ ] Webhook-режим для прод-деплоя
-- [ ] Метрики и Sentry
-
-### 🤝 Контрибьютинг
-
-PR и issues приветствуются. Перед коммитом:
-
-```bash
-pytest tests/
-```
-
 ### 📜 Лицензия
 
 MIT © scandf contributors
@@ -282,23 +265,6 @@ Stored in SQLite (`user_data.db`).
 - **[pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar/)** — QR/barcode recognition
 - **[img2pdf](https://gitlab.mister-muffin.de/josch/img2pdf)** — JPEG → PDF without re-encoding
 - **[reportlab](https://www.reportlab.com/)** / **[python-docx](https://python-docx.readthedocs.io/)** — document generation
-
-### 🗺️ Roadmap
-
-- [ ] OCR (Tesseract) → searchable PDF
-- [ ] Multi-page: combine multiple photos into one document
-- [ ] PDF compression
-- [ ] PDF password encryption
-- [ ] Webhook mode for production deployment
-- [ ] Metrics and Sentry integration
-
-### 🤝 Contributing
-
-PRs and issues are welcome. Before committing:
-
-```bash
-pytest tests/
-```
 
 ### 📜 License
 
