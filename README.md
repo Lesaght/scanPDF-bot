@@ -40,7 +40,7 @@
 #### 1️⃣ Клонирование
 
 ```bash
-git clone https://github.com/Lesaght/Bot-for-PDF-scan.git
+git clone https://github.com/Lesaght/scanPDF-bot.git
 cd Bot-for-PDF-scan
 ```
 
@@ -84,7 +84,7 @@ python main.py
 ### 🗂️ Структура проекта
 
 ```
-Bot-for-PDF-scan/
+scanPDF-bot/
 ├── bot/
 │   ├── handlers.py        # Хендлеры команд, текста, фото
 │   └── keyboards.py       # Inline- и Reply-клавиатуры
@@ -167,7 +167,7 @@ MIT © scandf contributors
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Lesaght/Bot-for-PDF-scan.git
+git clone https://github.com/Lesaght/scanPDF-bot.git
 cd Bot-for-PDF-scan
 ```
 
@@ -211,7 +211,7 @@ python main.py
 ### 🗂️ Project Structure
 
 ```
-Bot-for-PDF-scan/
+scanPDF-bot/
 ├── bot/
 │   ├── handlers.py        # Command, text, and photo handlers
 │   └── keyboards.py       # Inline and reply keyboards
