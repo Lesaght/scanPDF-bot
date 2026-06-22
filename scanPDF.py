@@ -500,7 +500,7 @@ def process_image(image_path: str, filter_type: str) -> Image.Image:
 
 
 def main():
-    TOKEN = "your_bot_token"
+    TOKEN = "bot_token"
 
     application = ApplicationBuilder().token(TOKEN).build()
 
